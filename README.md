@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizduman1&private=true)](https://github.com/denizduman1/github-readme-stats)
 <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizduman1&layout=compact&count_private=true)](https://github.com/denizduman1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizduman1&private=true)](https://github.com/denizduman1/github-readme-stats)
 
 <!--
 **denizduman1/denizduman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
